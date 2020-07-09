@@ -1,0 +1,4 @@
+#Wed Jul 08 16:34:45 EAT 2020
+base.0=/Users/tessydeiza/Documents/PluginWorkSpace/afyasasa/afyasasa/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
